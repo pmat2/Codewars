@@ -16,3 +16,7 @@ https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/solutions/java
 https://www.codewars.com/kata/577a98a6ae28071780000989/solutions/java
 
 https://www.codewars.com/kata/sort-the-odd/train/java
+
+https://www.codewars.com/kata/balanced-number-special-numbers-series-number-1/train/java
+
+https://www.codewars.com/kata/credit-card-issuer-checking/train/java

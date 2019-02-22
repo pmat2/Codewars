@@ -14,3 +14,5 @@ https://www.codewars.com/kata/57f781872e3d8ca2a000007e/solutions/java
 https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/solutions/java
 
 https://www.codewars.com/kata/577a98a6ae28071780000989/solutions/java
+
+https://www.codewars.com/kata/sort-the-odd/train/java
